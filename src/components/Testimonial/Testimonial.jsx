@@ -99,7 +99,7 @@ const Testimonial = (props) => {
         {testimonialData.map((_, i, arr) => {
           return (
             <div
-              name='change testimonial'
+              // name='change testimonial'
               key={i}
               className={`buttonDot${i} ${styles.myDot} ${
                 index === i ? dotsHelper(i) : ""

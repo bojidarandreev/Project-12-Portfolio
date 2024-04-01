@@ -77,8 +77,8 @@ form {
     max-width: calc(100vw - 20rem);
     justify-content: center;
     display: grid;
-    grid-template-columns: 24% 60%;
-    gap: 5rem;
+    grid-template-columns: 35% 55%;
+    gap: 4rem;
     h3 {
       text-transform: uppercase;
     }
@@ -100,7 +100,7 @@ form {
     text-align: left;
     display: flex;
     flex-direction: column;
-    align-content: left;
+    // align-content: left;
     flex-wrap: wrap;
     justify-content: left;
     p {

@@ -7,5 +7,5 @@ export const ProgressBarDifferentColour = ({currentValue, maxValue}) =>
   max={maxValue}
   >
     {currentValue}%
-    <p className="progressBar__value">{currentValue}</p>
+    {/* <span className="progressBar__value">{currentValue}</span> */}
   </progress>

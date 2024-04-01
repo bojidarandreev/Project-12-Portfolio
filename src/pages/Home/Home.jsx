@@ -266,27 +266,27 @@ export default function Home() {
           <div className="progress__loaders grid-two-columns">
             <div className="progress-wrap progress" data-progress-percent="60">
               <h4 className="progress__title">JavaScript </h4>
-              <p className="progress__number">60%</p>
+              <span className="progress__number">60%</span>
               <ProgressBarDifferentColour currentValue={60} maxValue={100} />
             </div>
             <div className="progress-wrap progress" data-progress-percent="45">
               <h4 className="progress__title">React </h4>
-              <p className="progress__number">45%</p>
+              <span className="progress__number">45%</span>
               <ProgressBarDifferentColour currentValue={45} maxValue={100} />
             </div>
             <div className="progress-wrap progress" data-progress-percent="70">
               <h4 className="progress__title">Sass </h4>
-              <p className="progress__number">70%</p>
+              <span className="progress__number">70%</span>
               <ProgressBarDifferentColour currentValue={70} maxValue={100} />
             </div>
             <div className="progress-wrap progress" data-progress-percent="80">
               <h4 className="progress__title">Html</h4>
-              <p className="progress__number">80%</p>
+              <span className="progress__number">80%</span>
               <ProgressBarDifferentColour currentValue={80} maxValue={100} />
             </div>
             <div className="progress-wrap progress" data-progress-percent="75">
               <h4 className="progress__title">Seo </h4>
-              <p className="progress__number">75%</p>
+              <span className="progress__number">75%</span>
               <ProgressBarDifferentColour currentValue={75} maxValue={100} />
             </div>
           </div>

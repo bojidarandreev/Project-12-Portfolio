@@ -14,7 +14,7 @@ export default function Navigation(props) {
       <div className="site-header">
         <a href="/" title="Header info" className="header__title">
           <img
-            src="./assets/Bozhidar-Andreev.jpg"
+            src="./src/assets/images/Bozhidar-Andreev.jpg"
             alt="Photo of Bozhidar Andreev"
           />
           Bozhidar Andreev

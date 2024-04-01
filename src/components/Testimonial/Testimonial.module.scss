@@ -10,7 +10,7 @@ div[class^="feedbackText--"] {
   align-content:flex-end;
   justify-content: flex-end;
   gap: 3rem;
-    overflow-clip-margin: content-box;
+    // overflow-clip-margin: content-box;
     overflow: clip;
     width: 300px;
     
@@ -31,7 +31,7 @@ div[class^="feedbackText--"] {
       text-align: left;
     }
     img {
-      overflow-clip-margin: content-box;
+      // overflow-clip-margin: content-box;
     overflow: clip;
       height: 64px;
       width: 64px;
