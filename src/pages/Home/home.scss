@@ -116,6 +116,9 @@
     &__testimonial {
         margin-bottom: 3rem;
     }
+    &__contact {
+        margin-bottom: 7rem;
+    }
     &__aboutMe,
     &__contact,
     &__home {
@@ -147,7 +150,16 @@
     }
 
 }
-
+ /* Medium devices such as tablets (768px and up) */
+ @media only screen and (min-width: 48em) {
+   .grid-two-columns .description {
+        p {
+            padding-top: 3rem;
+            font-size: 1.3rem;
+            line-height: 2.5rem;
+        }
+    }
+ }
 .title {
     position: relative;
     margin-bottom: 3rem;
@@ -167,7 +179,7 @@
     &__type-2 {
 
         @include poppins-600-semibold;
-        font-size: calc(1.95rem + 6.4vw);
+        font-size: calc(1.95rem + 4.6vw);
         color: $color-text-lighter;
         text-align: center;
         text-transform: uppercase;
@@ -177,12 +189,12 @@
         margin-left: auto;
         margin-right: auto;
         @include poppins-600-semibold;
-        font-size: 2.05rem;
+        font-size: calc(1.35rem + 0.6vw);;
         color: $color-text-darker;
         text-align: center;
         position: absolute;
         width: 100%;
-        margin-top: -85px;
+        margin-top: calc(-1.2rem - 9.8vw);;
         line-height: 2.5;
         display: flex;
         flex-direction: column;
@@ -205,9 +217,10 @@
       /* Medium devices such as tablets (768px and up) */
   @media only screen and (min-width: 48em) {
     &__2--subtitle {
-        margin-top: -137px;
-        font-size: 3.05rem;
+        margin-top: calc(-2.05rem - 6.7vw);
+        font-size: calc(2.05rem + 0.6vw);
     }
+
     }
 
    
@@ -225,7 +238,14 @@
     }
 
 }
-
+   /* Medium devices such as tablets (768px and up) */
+  @media only screen and (min-width: 48em) {
+    .locationInfo-2 .title__2--subtitle {
+        margin-top: calc(-2.05rem - 6.6vw);
+        font-size: calc(2.05rem + 0.6vw);
+    }
+    
+    }
 
 .featured-box {
     display: grid;
@@ -248,6 +268,16 @@
         }
     }
 
+}
+/* Medium devices such as tablets (768px and up) */
+@media only screen and (min-width: 48em) {
+    .featured-box {
+        align-items: start;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+    }
 }
 
 .single-service {
@@ -288,7 +318,7 @@
         border: none;
     }
     &__round {
-        padding: 10px 5rem;
+        padding: 10px 0;
         width: 233px;
         border-radius: 50px;
         transition: 260ms;
@@ -300,14 +330,14 @@
 
         &:hover {
             transition: 260ms;
-            width: 50%;
+            
             padding: 11px 17px;
 
             transform: translateY(-0px);
         }
     }
     &-type-one {
-        
+        width: 11.7rem;
         color: $color-important;
         background-color: transparent;
         margin-left: auto;
@@ -325,8 +355,8 @@
         color: $color-text-opposite;
         background-color: $color-important;
         border: 2px solid transparent;
-        padding: 10px 25px;
-        width: 50%;
+        padding: 10px 0;
+        width: 11.7rem;
 
         &:hover {
             background-color: $color-important;
@@ -342,7 +372,8 @@
         color: $color-text-gray-dark;
         background-color: transparent;
         border: 2px solid $color-text-gray-dark;
-        padding: 10px 25px;
+        padding: 10px 0;
+        width: 12.7rem;
 
         &:hover {
             background-color: $color-text-gray-dark;

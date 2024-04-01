@@ -3,13 +3,13 @@
 		"id": "Booki",
 		"title": "creez-la-page-d-accueil-d-une-agence-de-voyage-avec-html-&-CSS",
 		"seoTitle": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
 		"pictures": [
-			"https://bozhidara1.sg-host.com/portfolio-oc/booki01.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/booki03.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/booki05.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/booki06.jpg"
+			"http://bozhidara1.sg-host.com/portfolio-oc/booki01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/booki03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/booki05.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/booki06.jpg"
 		],
 		"description": [
 			"Intégrer l'interface du site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix, avec du code HTML et CSS"
@@ -17,10 +17,10 @@
 		"host": {
 			"authorAbout": "Developer at Nutcache Technologies",
 			"name": "Karim Saidana",
-			"picture": "https://user.oc-static.com/users/avatars/1628936356659_85096779_2836942769731660_6075680326267437056_n.jpg",
+			"picture": "http://user.oc-static.com/users/avatars/1628936356659_85096779_2836942769731660_6075680326267437056_n.jpg",
 			"feedback": "L’étudiant a installé un environnement de développement sur son poste qui est vs code et sait l'utiliser. Bozhidar a correctement implémenté l'intégration de la maquette. Le site s'adapte à toutes les tailles d'écrans de de plus de 320 px. A partir de 1440 px, l'affichage ne change pas. Les images ne sont pas déformées. Le code CSS ne soulève aucune erreur sur le validateur W3C."
 		},
-		"github": "https://github.com/bojidarandreev/booki.git",
+		"github": "http://github.com/bojidarandreev/booki.git",
 		"location": "Openclassrooms Intégrateur Web",
 		"equipments": [
 			"L’étudiant a installé un environnement de développement sur son poste qui est vs code et sait l'utiliser",
@@ -43,13 +43,13 @@
 		"id": "Ohmyfood",
 		"title": "ameliorez-l-interface-d-un-site-mobile-avec-des-animations-css",
 		"seoTitle": "Améliorez l'interface d'un site mobile avec des animations CSS",
-		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood00.jpg",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood00.jpg",
 		"pictures": [
-			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood01.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood02.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood03.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood04.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood05.jpg"
+			"http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood02.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood04.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ohmyfood05.jpg"
 		],
 		"description": [
 			"Un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée.",
@@ -58,9 +58,9 @@
 		"host": {
 			"authorAbout": "Developer at mcj-dev",
 			"name": "Maxime Chalas",
-			"picture": "https://media.licdn.com/dms/image/D4E03AQEjOT05XbqBaA/profile-displayphoto-shrink_800_800/0/1669745603141?e=1717632000&v=beta&t=z_MH4pD7-1K3mtuVJPvQX8eHaM4hD1ymq2X7V-0-_mQ"
+			"picture": "http://media.licdn.com/dms/image/D4E03AQEjOT05XbqBaA/profile-displayphoto-shrink_800_800/0/1669745603141?e=1717632000&v=beta&t=z_MH4pD7-1K3mtuVJPvQX8eHaM4hD1ymq2X7V-0-_mQ"
 		},
-		"github": "https://github.com/bojidarandreev/ohmyfood.git",
+		"github": "http://github.com/bojidarandreev/ohmyfood.git",
 		"location": "Openclassrooms Intégrateur Web",
 		"equipments": [
 			"La page HTML passe la validation W3C HTML sans erreur, les balises HTML sont définies avec la sémantique HTML5 pertinente.",
@@ -94,14 +94,14 @@
 		"id": "Kasa",
 		"title": "creez-une-application-web-de-location-immobiliere-avec-react",
 		"seoTitle": "Créez une application web de location immobilière avec React",
-		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
 		"pictures": [
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa02.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa03.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa04.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa05.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/kasa06.jpg"
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa02.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa04.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa05.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/kasa06.jpg"
 		],
 		"description": [
 		"Le site de Kasa a été codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important. Laura, la CTO, a donc lancé une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end. Kasa en a également profité pour commander de nouvelles maquettes auprès de son designer habituel, qui est en freelance.",
@@ -120,9 +120,9 @@
 		"host": {
 			"authorAbout": "Web developer at RTE",
 			"name": "Cheikh Mbacke",
-			"picture": "https://user.oc-static.com/users/avatars/16420188709483_profil.jpg"
+			"picture": "http://user.oc-static.com/users/avatars/16420188709483_profil.jpg"
 		},
-		"github": "https://github.com/bojidarandreev/Openclassrooms-Project-8-Casa.git",
+		"github": "http://github.com/bojidarandreev/Openclassrooms-Project-8-Casa.git",
 		"location": "Openclassrooms Intégrateur Web",
 		"equipments": [
 			"Les animations des éléments Collapses sont conformes au prototype fourni. La rotation de la flèche et l'apparition progressive du contenu sont bien implémentées, démontrant une maîtrise de Sass et des animations CSS.",
@@ -148,12 +148,12 @@
 		"id": "NinaCarduci",
 		"title": "optimisez-le-referencement-d-un-site-de-photographe",
 		"seoTitle": "Optimisez le référencement d'un site de photographe",
-		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
 		"pictures": [
-			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci02.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci03.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci04.jpg"
+			"http://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci02.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci04.jpg"
 		],
 		"description": [
 			"Les images",
@@ -190,9 +190,9 @@
 		"host": {
 			"authorAbout": "Architecte de Solutions Digitales",
 			"name": "Maria Lena Pietri",
-			"picture": "https://user.oc-static.com/users/avatars/1688540141806_15596403.jpg"
+			"picture": "http://user.oc-static.com/users/avatars/1688540141806_15596403.jpg"
 		},
-		"github": "https://github.com/bojidarandreev/ninacarducci.github.io.git",
+		"github": "http://github.com/bojidarandreev/ninacarducci.github.io.git",
 		"location": "Openclassrooms Intégrateur Web",
 		"equipments": [
 		"Toutes les optimisations obligatoires ont été réalisées ainsi que les facultatives pour un résultat finale à 100% sur tous les métriques lighthouse. Le Rich Snippet est valide, et l'audit d'accessibilité ne montre pas d'erreur. Le rapport d'optimisation est complet et décrit l'ensemble des optimisations qui ont été réalisées.",
@@ -211,12 +211,12 @@
 		"id": "ArgentBank",
 		"title": "implementez-le-front-end-d-une-application-bancaire-avec-react",
 		"seoTitle": "Implémentez le front-end d'une application bancaire avec React",
-		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
 		"pictures": [
-			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank01.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank02.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
-			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank04.jpg"
+			"http://bozhidara1.sg-host.com/portfolio-oc/ArgentBank01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ArgentBank02.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/ArgentBank04.jpg"
 		],
 		"description": [
 			"Système d'authentification des utilisateurs et mise en place du tableau de bord des utilisateurs.",
@@ -240,9 +240,9 @@
 		"host": {
 			"authorAbout": "Java developer at TTA",
 			"name": "Sarra Belkhaouas",
-			"picture": "https://user.oc-static.com/users/avatars/16807424485877_Profile.PNG"
+			"picture": "http://user.oc-static.com/users/avatars/16807424485877_Profile.PNG"
 		},
-		"github": "https://github.com/bojidarandreev/ArgentBank-website.git",
+		"github": "http://github.com/bojidarandreev/ArgentBank-website.git",
 		"location": "Openclassrooms Intégrateur Web",
 		"equipments": ["Toutes les informations affichées sur le site sont consommées depuis l'api backend avec fetch",
 		"L'utilisateur est en mesure de se connecter et se déconnecter correctement depuis l'application", "Il peut aussi éditer ses informations d'identité via la page profil que s'il est authentifié",
@@ -264,6 +264,52 @@
 			"React",
 			"Redux",
 			"SASS"
+		]
+	},
+	{
+		"id": "Oolith",
+		"title": "developpement-du-site-Web-du-cabinet-d-avocats-0olith",
+		"seoTitle": "Développement du site Web du cabinet d’avocats Oolith",
+		"cover": "http://bozhidara1.sg-host.com/portfolio-oc/oolith00.jpg",
+		"pictures": [
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith01.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith02.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith03.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith04.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith05.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith06.jpg",
+			"http://bozhidara1.sg-host.com/portfolio-oc/oolith07.jpg"
+		],
+		"description": [
+		"Développement du site Web du cabinet d’avocats Oolith.",
+		"Respect du concept de conception graphique fourni par le client.",
+		"Création d'une stratégie de référencement dans les moteurs de recherche. ",
+		"⠀",
+		"Former le client à la gestion du site et travailler le référencement dans la durée.",
+		"Choisir un hébergement et télécharger le site Web terminé sur le serveur sélectionné. ",
+		"⠀",
+		"Configuration d'un service de messagerie professionnel avec une signature électronique et configuration de l'authentification."
+		],
+		"host": {
+			"authorAbout": "Avocat et Associée du cabinet Oolith Avocats",
+			"name": "Gala Paricheva",
+			"picture": "https://media.licdn.com/dms/image/D4E03AQEjOT05XbqBaA/profile-displayphoto-shrink_800_800/0/1669745603141?e=1717632000&v=beta&t=z_MH4pD7-1K3mtuVJPvQX8eHaM4hD1ymq2X7V-0-_mQ"
+		  },
+		"github": "https://oolith.eu",
+		"location": "Developpeur Freelance",
+		"equipments": [
+		"Pour le cabinet d’avocats Oolith, cherchant à développer sa présence en ligne, Bojidar Andreev a été un partenaire exceptionnel dans la création de notre site internet.",
+		"⠀",
+		"Dès le premier contact, il a fait preuve un haut niveau de professionnalisme et d'expertise. Bojidar Andreev a très vite compris notre profession d’avocat, nos besoins spécifiques, nos objectifs de développement commercial et notre identité de marque, ce qui s'est reflété dans chaque aspect du processus de création du site.",
+		"⠀",
+		"En oute, Bojidar Andreev a su respecter les délais et le budget convenus, ce qui a rendu l'ensemble du processus aussi fluide que possible.",
+		"⠀",
+		"Depuis le lancement du site, nous avons reçu de nombreux compliments de la part de nos clients et partenaires commerciaux. C’est pourquoi je recommande vivement Bojidar Andreev à toute entreprise cherchant à créer ou à améliorer sa présence en ligne."
+		],
+		"tags": [
+			"php",
+			"css",
+			"wordpress"
 		]
 	}
 ]

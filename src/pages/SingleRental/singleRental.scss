@@ -70,7 +70,7 @@
   grid-template-columns:repeat(1, 1fr);
   gap: calc(1px + 0.9vw);
   padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding-bottom: 7rem;
   justify-content: center;
   
   .summary {
@@ -101,6 +101,17 @@
     }
   }
  
+}
+/* Large devices such as laptops (1024px and up) */
+@media only screen and (min-width: 64em) {
+  .locationInfo-3 {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0;
+  .summary {
+    max-width: 35rem;
+    margin: 0 calc(1rem + 3vw);
+  }
+  }
 }
 
 

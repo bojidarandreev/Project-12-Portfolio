@@ -21,10 +21,11 @@ export default function Home() {
       >
         <div className="home__text-content">
           <p className="p-header">Welcome</p>
-          <h1 className="banner-title">I am {word}</h1>
+          <h2 className="banner-title">I am {word}</h2>
           <p className="p-header p-info">based in Paris, France.</p>
-          <a className="button button__round button-type-one"> Hire Me</a>
+          
         </div>
+        <a href="#contact" className="button button__round button-type-one"> Engagez moi</a>
 
         <div className="banner">
           <img
@@ -35,16 +36,16 @@ export default function Home() {
       </section>
       <section id="about-me" className="section section__aboutMe">
         <div className="text-center title">
-          <h2 className="title__type-2">About me</h2>
+          <h2 className="title__type-2">Sur moi</h2>
           <p className="title__2--subtitle title__absolute">
-            Know Me More
+          Plus sur moi
             <span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
         <div className="grid-two-columns">
           <div className="description grid-one-column">
             <h3 className="title__bicolor">
-              I'm <span>Bozhidar Andreev</span>, a Web Developer
+            Je m'appelle <span>Bozhidar Andreev</span>, développeur Web
             </h3>
             <p>
               Je me spécialise dans le développement web, dans lequel j'associe
@@ -58,49 +59,49 @@ export default function Home() {
           <div className="grid-one-column align__left">
             <ul className="list-style-2">
               <li>
-                <span>Name: </span>Bozhidar Andreev
+                <span>Nom: </span>Bozhidar Andreev
               </li>
               <li>
-                <span>Email: </span>
+                <span>E-mail: </span>
                 <a href="mailto:andreev.bozhidar@gmail.com">
                   andreev.bozhidar@gmail.com
                 </a>
               </li>
               <li>
-                <span>Age: </span>38
+                <span>Âge: </span>38
               </li>
               <li>
-                <span>From: </span> Paris, France
+                <span>De: </span> Paris, France
               </li>
             </ul>
             <a
               href="https://drive.google.com/file/d/11z7H6oSJW28RNoG0tQMrPgR3aDYCRvW3/view?usp=sharing"
               className="button button__round button-type-two btn rounded-pill"
             >
-              Download CV
+              Télécharger CV
             </a>
           </div>
         </div>
         <ul className="grid-four-columns featured-box">
           <li>
-            <span>3+</span>Years Experiance
+            <span>3+</span>Années d'expérience
           </li>
           <li>
-            <span>20+</span>Happy Clients
+            <span>20+</span>Clients satisfaits
           </li>
           <li>
-            <span>6+</span>Projects Done
+            <span>6+</span>Projets réalisés
           </li>
           <li>
-            <span>26+</span>Earned certificates
+            <span>26+</span>Certificats obtenus
           </li>
         </ul>
       </section>
       <section id="services" className="section section__services">
         <div className="text-center title">
-          <h2 className="title__type-2">Services</h2>
+          <h2 className="title__type-2">COMPÉTENCES</h2>
           <p className="title__2--subtitle title__absolute">
-            What I Do?
+          Ce que je fais?
             <span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
@@ -172,14 +173,14 @@ export default function Home() {
       </section>
       <section id="summary" className="section summary section__summary">
         <div className="text-center title">
-          <h2 className="title__type-2">Summary</h2>
+          <h2 className="title__type-2">aperçu</h2>
           <p className="title__2--subtitle title__absolute">
-            Resume<span className="heading-separator-line border-bottom"></span>
+          Résumé<span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
         <div className="grid-two-columns">
           <div className="resume grid-one-column">
-            <h3 className="title__type-3">My Education</h3>
+            <h3 className="title__type-3">Mon éducation</h3>
             <div className="resume__group">
               <div className="resume__box info-box">
                 <p className="resume__badge badge">2022 - 2023</p>
@@ -205,7 +206,7 @@ export default function Home() {
             </div>
           </div>
           <div className="resume grid-one-column">
-            <h3 className="title__type-3">My Experience</h3>
+            <h3 className="title__type-3">Mon expérience</h3>
             <div className="resume__group">
               <div className="resume__box info-box">
                 <p className="resume__badge badge">2021</p>
@@ -262,7 +263,7 @@ export default function Home() {
           </div>
         </div>
         <div className="grid-one-columns">
-          <h3 className="title__type-3">My Skills</h3>
+          <h3 className="title__type-3">Mes compétences</h3>
           <div className="progress__loaders grid-two-columns">
             <div className="progress-wrap progress" data-progress-percent="60">
               <h4 className="progress__title">JavaScript </h4>
@@ -295,7 +296,7 @@ export default function Home() {
           href="https://drive.google.com/file/d/11z7H6oSJW28RNoG0tQMrPgR3aDYCRvW3/view?usp=sharing"
           className="button button__round button-type-tree btn rounded-pill"
         >
-          Download CV
+          Télécharger CV
         </a>
       </section>
 
@@ -306,7 +307,7 @@ export default function Home() {
         <div className="text-center title">
           <h2 className="title__type-2">Portfolio</h2>
           <p className="title__2--subtitle title__absolute">
-            My Work
+          Mon travail
             <span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
@@ -314,9 +315,9 @@ export default function Home() {
       </section>
       <section id="testimonial" className="section section__testimonial">
         <div className="text-center title">
-          <h2 className="title__type-2">Testimonial</h2>
+          <h2 className="title__type-2">Témoignage</h2>
           <p className="title__2--subtitle title__absolute">
-            Client Speak
+          Les clients ont dit
             <span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
@@ -326,18 +327,18 @@ export default function Home() {
         <div className="text-center title">
           <h2 className="title__type-2">Contact</h2>
           <p className="title__2--subtitle title__absolute">
-            Get in Touch
+          Entrer en contact
             <span className="heading-separator-line border-bottom"></span>
           </p>
         </div>
         <div className="contact__details">
         <div className="contact__mailform grid-one-column">
-          <h3 className="title__type-3">Hit me up when you're ready</h3>
+          <h3 className="title__type-3">Envoyez moi un message</h3>
           <Contactform />
         </div>
         <div className="contact__info grid-two-columns grid-two-columns-asymmetrical">
           <div className=" grid-one-column">
-            <h3 className="title__type-3 ">Address</h3>
+            <h3 className="title__type-3 ">Adresse</h3>
             <div className="adress__details">
             <p className="text-3 mb-4 ">
               31 rue Guichard,

@@ -33,7 +33,7 @@ export default function SingleRental() {
             ))}{" "}
           </ul>
           <h2 className="title__type-3 title__type-3-projectPage">{projects.location}</h2>
-          <a className="projectCodeLink" href={projects.github} target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-folder-open"></i>The project code
+          <a className="projectCodeLink" href={projects.github} target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-folder-open"></i>Découvrez ce projet
           </a>
           
         </div>
@@ -44,13 +44,13 @@ export default function SingleRental() {
       </div>
       <div className="locationInfoContainer">
         <div className="locationInfo-2">
-          <h3 className="title__type-2">Details</h3>
-        <p className="title__2--subtitle title__absolute">Project specifications<span className="heading-separator-line border-bottom"></span></p>
+          <h3 className="title__type-2">Détails</h3>
+        <p className="title__2--subtitle title__absolute">Spécification du projet<span className="heading-separator-line border-bottom"></span></p>
         </div>
         
         <div className="locationInfo-3">
-          <Summary title="Client needs" details={projects.description} />
-          <Summary title="Client opinion" details={projects.equipments} author={projects.host.name} authorTitle={projects.host.authorAbout} />
+          <Summary title="Les attentes du client" details={projects.description} />
+          <Summary title="Le client est-il satisfait ?" details={projects.equipments} author={projects.host.name} authorTitle={projects.host.authorAbout} />
         </div>
       </div>
     </>

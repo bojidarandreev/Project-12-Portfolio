@@ -17,29 +17,31 @@ export default function Navigation(props) {
             src="./src/assets/images/Bozhidar-Andreev.jpg"
             alt="Photo of Bozhidar Andreev"
           />
-          Bozhidar Andreev
+          
+          <h1>Bozhidar Andreev</h1>
         </a>
+        
       </div>
       <nav className="navigationMenu">
         {/* Desktop Menu */}
         <ul className="desktopMenu">
           <li className="header__nav--item">
-            <a href="/">Home</a>
+            <a href="/">Accueil</a>
           </li>
           <li className="header__nav--item">
-            <a href="/#about-me">About Me</a>
+            <a href="/#about-me">Et moi ?</a>
           </li>
           <li className="header__nav--item">
-            <a href="/#services">What i Do</a>
+            <a href="/#services">Compétence</a>
           </li>
           <li className="header__nav--item">
-            <a href="/#summary">Resume</a>
+            <a href="/#summary">Résumé</a>
           </li>
           <li className="header__nav--item">
             <a href="/#portfolio">Portfolio</a>
           </li>
           <li className="header__nav--item">
-            <a href="/#testimonial">Testimonial</a>
+            <a href="/#Témoignages">Témoignages</a>
           </li>
           <li className="header__nav--item">
             <a href="/#contact">Contact</a>
@@ -53,22 +55,22 @@ export default function Navigation(props) {
           {isMobileMenuOpen && (
             <ul className="mobileMenuItems">
               <li className="header__nav--item">
-                <a href="/">Home</a>
+                <a href="/">Accueil</a>
               </li>
               <li className="header__nav--item">
-                <a href="/#about-me">About Me</a>
+                <a href="/#about-me">Et moi ?</a>
               </li>
               <li className="header__nav--item">
-              <a href="/#services">What I Do</a>
+              <a href="/#services">Compétence</a>
               </li>
               <li className="header__nav--item">
-                <a href="/#summary">Resume</a>
+                <a href="/#summary">Résumé</a>
               </li>
               <li className="header__nav--item">
                 <a href="/#portfolio">Portfolio</a>
               </li>
               <li className="header__nav--item">
-                <a href="/#testimonial">Testimonial</a>
+                <a href="/#Témoignages">Témoignages</a>
               </li>
               <li className="header__nav--item">
                 <a href="/#contact">Contact</a>
