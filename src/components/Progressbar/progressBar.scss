@@ -1,0 +1,52 @@
+@import "../../assets/sass/index";
+
+.progressBar {
+  width: 100%;
+  &__value {
+    appearance: unset;
+    display: block;
+    color: $color-gray-white;
+  }
+  appearance: none;
+  height: 8px;
+  border-radius: 100px;
+    
+  /* Chrome and Safari */
+  &::-webkit-progress-bar {
+    background: $color-gray-white;
+    border-radius: 100px;
+    animation: progress 5s ease 5s 1 normal forwards;
+  }
+
+  &::-webkit-progress-value {
+    background-color: $color-important;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
+
+  /* Firefox */
+  &::-moz-progress-bar {
+    background-color: $color-important;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
+
+  &::-webkit-progress-value {
+    transition: width 1s;
+    
+  }
+}
+
+
+
+@keyframes progress {
+	0% {
+		transform: scaleX(0.4);
+		transform-origin: 0% 0%;
+	}
+
+	100% {
+		transform: scaleX(1);
+		transform-origin: 0% 0%;
+	}
+}

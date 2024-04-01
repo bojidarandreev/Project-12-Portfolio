@@ -1,0 +1,68 @@
+[
+  {
+    "testimonial": "Super présentation! Le projet est complet et conforme à la demande de Riding cities! On sent que tu as de l'experience dans le developpement et que tu as pris plaisir à réaliser ce projet.",
+    "author": "Dimitri Subrini",
+    "authorAbout": "Full-stack developer",
+    "authorImage": "https://media.licdn.com/dms/image/C5603AQH_IU8IZICLbw/profile-displayphoto-shrink_800_800/0/1565798379231?e=1717632000&v=beta&t=SGR6YCnL0p_qk2smwW67Yl8mMz5IAhED_cpzITaVDWE"
+  },
+  {
+    "testimonial": "Bozhidar a correctement implémenté l'intégration de la maquette. Présentation fluide et bonne maitrise du projet et les livrables sont mis à jour à temps Projet validé!",
+    "author": "Karim Saidana",
+    "authorAbout": "Developer at Nutcache Technologies",
+    "authorImage": "https://user.oc-static.com/users/avatars/1628936356659_85096779_2836942769731660_6075680326267437056_n.jpg"
+  },
+  {
+    "testimonial": "Très bonne structuration. Code bien indenté et très bien structuré, conforme aux livrables attendus. Félicitation, continuez comme ça sur les prochains projets",
+    "author": "Maxime Chalas",
+    "authorAbout": "Developer at mcj-dev",
+    "authorImage": "https://media.licdn.com/dms/image/D4E03AQEjOT05XbqBaA/profile-displayphoto-shrink_800_800/0/1669745603141?e=1717632000&v=beta&t=z_MH4pD7-1K3mtuVJPvQX8eHaM4hD1ymq2X7V-0-_mQ"
+  },
+  {
+    "testimonial": "Un partenaire exceptionnel dans la création de notre site internet. Haut niveau de professionnalisme et d'expertise. Il a très vite compris nos besoins et objectifs, ce qui s'est reflété dans chaque aspect du processus. Il a su respecter les délais et le budget convenus, ce qui a rendu. l'ensemble du processus très fluide. Depuis le lancement du site, nous avons reçu de nombreux compliments de la part de nos clients et partenaires. Je le recommande vivement à toutes cherchant à créer ou à améliorer sa présence en ligne.",
+    "author": "Gala Paricheva",
+    "authorAbout": "Intellectual Property Lawyer",
+    "authorImage": "https://media.licdn.com/dms/image/C5603AQG0B53FVVuZqQ/profile-displayphoto-shrink_800_800/0/1516261732503?e=1717632000&v=beta&t=43wZPZSGRYWnumA8pZ8v2gFGiCjqbL-cp2qc7vAOddg"
+  },
+  {
+    "testimonial": "Bozhidar a su m'expliquer étape par étape comment il a géré la fonctionnalité. C'était agréable que tu as pris plaisir à apprendre le JS et de ce que tu as retenu de ce projet.",
+    "author": "Dimitri Subrini",
+    "authorAbout": "Full-stack developer",
+    "authorImage": "https://media.licdn.com/dms/image/C5603AQH_IU8IZICLbw/profile-displayphoto-shrink_800_800/0/1565798379231?e=1717632000&v=beta&t=SGR6YCnL0p_qk2smwW67Yl8mMz5IAhED_cpzITaVDWE"
+  },
+  {
+    "testimonial": "Le site répond totalement au besoin client. Le code du site fourni est propre. Très bonne présentation, Bozhidar explique tous ce qu’il a fait pour répondre au besoin du site. Bravo et bon courage pour la suite de votre parcours.",
+    "author": "Olivier Canu",
+    "authorAbout": "Coach at OpenClassrooms",
+    "authorImage": "https://media.licdn.com/dms/image/C4E03AQGZ0UlhB6gnKQ/profile-displayphoto-shrink_800_800/0/1658148294698?e=1717027200&v=beta&t=W8uprrXvEoAFC--X6dIys1vw7UEgZolj1JuF25m8Sw4"
+  },
+  {
+    "testimonial": "La présentation de Bozhidar était professionnelle, montrant une bonne maîtrise du sujet. Les efforts déployés sont encourageants et montrent un potentiel certain pour de futurs succès.",
+    "author": "Vincent Lujan",
+    "authorAbout": "Coach at OpenClassrooms",
+    "authorImage": "https://user.oc-static.com/users/avatars/16876284218839_Design%20sans%20titre-2.png"
+  },
+  {
+    "testimonial": "Utilisation efficace de React et Sass, bonne organisation du code, navigation fluide, respect des maquettes Figma",
+    "author": "Cheikh Mbacke",
+    "authorAbout": "Web developer at RTE",
+    "authorImage": "https://user.oc-static.com/users/avatars/16420188709483_profil.jpg"
+  },
+  {
+    "testimonial": "Une description extrêmement complète de tout ce qui a été réalisé détaillé, commenté, justifié. Même la question de la cliente sur la mise en cache a eu une réponse adaptée. De toute évidence, un vrai talent pour l'optimisation de performance et le SEO. Bonne continuation pour la suite",
+    "author": "Maria Lena Pietri",
+    "authorAbout": "Architecte de Solutions Digitales",
+    "authorImage": "https://user.oc-static.com/users/avatars/1688540141806_15596403.jpg"
+  },
+  {
+    "testimonial": "Le cahier de recette est conforma à l'attendu et permet de tester l'application. Toutes les anomalies et bugs ont été corrigées. Les tests unitaires s'exécutent sans erreur. Les compétences visées par le projet ont été atteintes. Félicitations.",
+    "author": "Armand Njapou Ngassu",
+    "authorAbout": "Software Engineer at accor group",
+    "authorImage": "https://user.oc-static.com/users/avatars/16342245599713_PP.jpg"
+  },
+  {
+    "testimonial": "La soutenance s'est bien déroulée grâce à la capacité de Bozhidar à répondre efficacement aux questions et à éclaircir les points flous. Félicitations et bonne continuation !",
+    "author": "Sarra Belkhaouas",
+    "authorAbout": "Java developer at TTA",
+    "authorImage": "https://user.oc-static.com/users/avatars/16807424485877_Profile.PNG"
+  }
+]

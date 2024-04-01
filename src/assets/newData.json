@@ -1,0 +1,269 @@
+[
+	{
+		"id": "Booki",
+		"title": "creez-la-page-d-accueil-d-une-agence-de-voyage-avec-html-&-CSS",
+		"seoTitle": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
+		"pictures": [
+			"https://bozhidara1.sg-host.com/portfolio-oc/booki01.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/booki03.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/booki04.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/booki05.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/booki06.jpg"
+		],
+		"description": [
+			"Intégrer l'interface du site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix, avec du code HTML et CSS"
+		],
+		"host": {
+			"authorAbout": "Developer at Nutcache Technologies",
+			"name": "Karim Saidana",
+			"picture": "https://user.oc-static.com/users/avatars/1628936356659_85096779_2836942769731660_6075680326267437056_n.jpg",
+			"feedback": "L’étudiant a installé un environnement de développement sur son poste qui est vs code et sait l'utiliser. Bozhidar a correctement implémenté l'intégration de la maquette. Le site s'adapte à toutes les tailles d'écrans de de plus de 320 px. A partir de 1440 px, l'affichage ne change pas. Les images ne sont pas déformées. Le code CSS ne soulève aucune erreur sur le validateur W3C."
+		},
+		"github": "https://github.com/bojidarandreev/booki.git",
+		"location": "Openclassrooms Intégrateur Web",
+		"equipments": [
+			"L’étudiant a installé un environnement de développement sur son poste qui est vs code et sait l'utiliser",
+			"Bozhidar a correctement implémenté l'intégration de la maquette",
+			"Le projet utilise du desktop first",
+			"Le site s'adapte à toutes les tailles d'écrans de de plus de 320 px",
+			"A partir de 1440 px, l'affichage ne change pas",
+			"Les images ne sont pas déformées",
+			"Le code CSS ne soulève aucune erreur sur le validateur W3C",
+			"utilisation des bonne balises sémantiques",
+			"tout le site respecte les normes w3c",
+			"Présentation fluide et bonne maitrise du projet et les livrables sont mis à jour à temps. Projet validé!"
+		],
+		"tags": [
+			"HTML",
+			"CSS"
+		]
+	},
+	{
+		"id": "Ohmyfood",
+		"title": "ameliorez-l-interface-d-un-site-mobile-avec-des-animations-css",
+		"seoTitle": "Améliorez l'interface d'un site mobile avec des animations CSS",
+		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood00.jpg",
+		"pictures": [
+			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood01.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood02.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood03.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood04.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ohmyfood05.jpg"
+		],
+		"description": [
+			"Un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée.",
+			"Développer pour mobile, tablette et desktop en s’appuyant rigoureusement sur les informations déterminées dans le brief créatif !",
+			"le site doit être responsive et en “mobile first” et utiliser SASS + des animations"],
+		"host": {
+			"authorAbout": "Developer at mcj-dev",
+			"name": "Maxime Chalas",
+			"picture": "https://media.licdn.com/dms/image/D4E03AQEjOT05XbqBaA/profile-displayphoto-shrink_800_800/0/1669745603141?e=1717632000&v=beta&t=z_MH4pD7-1K3mtuVJPvQX8eHaM4hD1ymq2X7V-0-_mQ"
+		},
+		"github": "https://github.com/bojidarandreev/ohmyfood.git",
+		"location": "Openclassrooms Intégrateur Web",
+		"equipments": [
+			"La page HTML passe la validation W3C HTML sans erreur, les balises HTML sont définies avec la sémantique HTML5 pertinente.",
+			"sass",
+			"Le code HTML et CSS est correctement indenté.",
+			"L'aspect visuel correspond à la maquette sur écran mobile et aucun framework (type Bootstrap) n'est utilisé pour ce projet.",
+			"La maquette s’adapte sur mobile, tablette et desktop.",
+			"Le site s’affiche sans perte d’information et sans barre de défilement horizontale sur les différentes tailles (smartphone, tablette, écran de portable, écran fixe (au moins jusqu’à une résolution “hd” (1920*1080)).",
+			"⠀",
+			"Le code de l’application est hébergé sur GitHub , Le versionning de l’application est effectué régulièrement.",
+			"⠀",
+			"Toutes les animations demandées sont présentes, le code CSS passe la validation W3C CSS et aucun code CSS n'est appliqué via un attribut style dans une balise HTML. Le code CSS est écrit dans plusieurs fichiers SCSS, Très bonne structuration.",
+			"⠀",
+			"Code bien indenté et très bien structuré, conforme aux livrables attendu",
+			"Utilisation de SCSS très bien appréhendée et compris.",
+			"Le projet réagis très bien.",
+			"Le site est fidèle aux différentes maquettes.",
+			"⠀",
+			"Très bon temps de parole, une présentation très propre pour la présentation du projet, les réponses aux questions sont bonnes.",
+			"SCSS très bien appréhendé et compris dans l'ensemble",
+			"⠀",
+			"Félicitation continuez comme ça sur les prochains projets et d'après mon jugement vous n'aurez aucun souci pour la suite !"
+		],
+		
+		"tags": [
+			"HTML",
+			"SASS"
+		]
+	},
+	{
+		"id": "Kasa",
+		"title": "creez-une-application-web-de-location-immobiliere-avec-react",
+		"seoTitle": "Créez une application web de location immobilière avec React",
+		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
+		"pictures": [
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa01.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa02.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa03.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa04.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa05.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/kasa06.jpg"
+		],
+		"description": [
+		"Le site de Kasa a été codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important. Laura, la CTO, a donc lancé une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end. Kasa en a également profité pour commander de nouvelles maquettes auprès de son designer habituel, qui est en freelance.",
+		"⠀",
+		"Objectif : Démarrer le projet React et développer l’ensemble de l’application, les composants React, les routes React Router, en suivant les maquettes Figma (responsives !)",
+		"⠀",
+		"Contraintes fonctionnelles⠀",
+		"Pour le défilement des photos dans la galerie (composant Gallery) :",
+		"Si l'utilisateur se trouve à la première image et qu'il clique sur Image précédente, la galerie affiche la dernière image. ",
+		"Inversement, quand l'image affichée est la dernière de la galerie, si l'utilisateur clique sur Image suivante, la galerie affiche la première image. ",
+		"S'il n'y a qu'une seule image, les boutons Suivant et Précédent ainsi que la numérotation n'apparaissent pas.",
+		"La galerie doit toujours rester de la même hauteur, celle indiquée sur la maquette Figma. Les images seront donc coupées et centrées dans le cadre de l’image.",
+		"Collapse : Par défaut, les Collapses sont fermés à l'initialisation de la page.",
+		"Si le Collapse est ouvert, le clic de l'utilisateur permet de le fermer.",
+		"Inversement, si le Collapse est fermé, un clic permet de l'ouvrir."],
+		"host": {
+			"authorAbout": "Web developer at RTE",
+			"name": "Cheikh Mbacke",
+			"picture": "https://user.oc-static.com/users/avatars/16420188709483_profil.jpg"
+		},
+		"github": "https://github.com/bojidarandreev/Openclassrooms-Project-8-Casa.git",
+		"location": "Openclassrooms Intégrateur Web",
+		"equipments": [
+			"Les animations des éléments Collapses sont conformes au prototype fourni. La rotation de la flèche et l'apparition progressive du contenu sont bien implémentées, démontrant une maîtrise de Sass et des animations CSS.",
+			"⠀",
+			"L'étudiant a utilisé Sass pour générer du style CSS structuré.",
+			"⠀",
+			"La navigation entre les pages est configurée avec React Router. La logique de routing est centralisée dans un seul fichier, et les routes inexistantes renvoient correctement à la page 404. La gestion des URLs dynamiques pour les détails des appartements est également traitée.",
+			"⠀",
+			"Les composants React, notamment le Collapse et le Gallery, fonctionnent comme attendu. Leur réutilisation et l'itération sur les données JSON pour afficher les appartements sont bien réalisées. L'étudiant montre une bonne compréhension du fonctionnement des composants, des props et du state dans React.",
+			"⠀",
+			"L'application a été correctement initialisée avec Create React App. L'architecture du code est logique et structurée, sans erreurs ni avertissements dans la console. Le principe un composant par fichier est bien respecté.",
+			"⠀",
+			"Utilisation efficace de React et Sass, bonne organisation du code, navigation fluide, respect des maquettes Figma.",
+			"⠀",
+			"La soutenance s'est bien passée, le projet est validé !"
+		],
+		"tags": [
+			"react",
+			"sass"
+		]
+	},
+	{
+		"id": "NinaCarduci",
+		"title": "optimisez-le-referencement-d-un-site-de-photographe",
+		"seoTitle": "Optimisez le référencement d'un site de photographe",
+		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
+		"pictures": [
+			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci01.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci02.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci03.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/Nina-Carduci04.jpg"
+		],
+		"description": [
+			"Les images",
+			"Score Lighthouse avant optimisation : 88 Score Lighthouse après optimisation : 100",
+			"Redimensionner les images.",
+			"Diminuer la résolution(dpi)",
+			"⠀",
+			"Le code",
+			"Optimisation du code CSS responsable de la visualisation du site.",
+			"Activer l'algorithme de compression GZIP",
+			"Préchargement des premières images rendues",
+			"Optimiser la mise en cache",
+			"Ajout du code Google Search Console au site",
+			"⠀",
+			"La structure",
+			"Correction des tags des éléments de type 'liste'.",
+			"Répartition du code html,",
+			"Ajouter des OpenGraph and méta descriptions",
+			"Ajout d'un ld+json avec une description correcte du site, selon les chéma.org",
+			"Correction de robots.txt",
+			"Déplacer les scripts supplémentaires pour éviter un chargement lent du contenu principal",
+			"⠀",
+			"Accessibilité du site",
+			"Ajoutez et corrigez les balises alt sur toutes les images",
+			"Redéfinir le deuxième H1",
+			"Ajouter les éléments descriptifs manquants au formulaire ",
+			"Correction de la description des liens",
+			"Ajouter un titre du site ",
+			"Spécifier un attribut lang",
+			"Correction du rapport de contraste insuffisant",
+			"Correction et repositionnement des éléments h2, h3, h4, h6",
+			"Les titres sont correctement ordonnés pour optimiser la structure sémantique"
+			],
+		"host": {
+			"authorAbout": "Architecte de Solutions Digitales",
+			"name": "Maria Lena Pietri",
+			"picture": "https://user.oc-static.com/users/avatars/1688540141806_15596403.jpg"
+		},
+		"github": "https://github.com/bojidarandreev/ninacarducci.github.io.git",
+		"location": "Openclassrooms Intégrateur Web",
+		"equipments": [
+		"Toutes les optimisations obligatoires ont été réalisées ainsi que les facultatives pour un résultat finale à 100% sur tous les métriques lighthouse. Le Rich Snippet est valide, et l'audit d'accessibilité ne montre pas d'erreur. Le rapport d'optimisation est complet et décrit l'ensemble des optimisations qui ont été réalisées.",
+		"⠀",
+		"L'ensemble des livrables sont conformes à ce qui est attendu. Les résultats au-delà de ce qui est demandé.",
+		"⠀",
+		"Excellente soutenance avec une description extrêmement complète de tout ce qui a été réalisé détaillé, commenté, justifié. Même la question de la cliente sur la mise en cache a eu une réponse adaptée. De toute évidence, un vrai talent pour l'optimisation de performance et le SEO. Bonne continuation pour la suite."
+		],
+		"tags": [
+			"Audit",
+			"Référencement local",
+			"SEO"
+		]
+	},
+	{
+		"id": "ArgentBank",
+		"title": "implementez-le-front-end-d-une-application-bancaire-avec-react",
+		"seoTitle": "Implémentez le front-end d'une application bancaire avec React",
+		"cover": "https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
+		"pictures": [
+			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank01.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank02.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank03.jpg",
+			"https://bozhidara1.sg-host.com/portfolio-oc/ArgentBank04.jpg"
+		],
+		"description": [
+			"Système d'authentification des utilisateurs et mise en place du tableau de bord des utilisateurs.",
+			"⠀",
+			"Phase 1 : Authentification des utilisateurs.","Créer l’application web complète et responsive avec React. ",
+			"Utiliser Redux pour gérer le state de l'ensemble de l'application.",
+			"L'utilisateur peut visiter la page d'accueil.",
+			"L'utilisateur peut se connecter au système (et pouvoir gérer des erreurs si l’username ou mdp sont incorrects).",
+			"L'utilisateur peut se déconnecter du système.",
+			"L'utilisateur ne peut voir les informations relatives à son propre profil qu'après s'être connecté avec succès.",
+			"L’utilisateur ne peut pas modifier son nom ni son prénom, mais il peut modifier son pseudo.",
+			"Mettre en place des bonnes pratiques de Green Code",
+			"⠀",
+			"phase 2 : Transactions",
+			"Besoin d'un document décrivant les routes API proposées pour les manipulations sur les transactions, en suivant les directives de Swagger.",
+			"fonctionnalité pour les transactions, qui doit pouvoir permettre aux utilisateurs :",
+			"-de visualiser toutes leurs transactions pour le mois en cours, groupées par compte ;",
+			"-de visualiser les détails d'une transaction dans une autre vue ;",
+			"-d'ajouter, de modifier ou de supprimer des informations sur une transaction (on ne supprimera ou n'ajoutera pas de transaction)."
+		],
+		"host": {
+			"authorAbout": "Java developer at TTA",
+			"name": "Sarra Belkhaouas",
+			"picture": "https://user.oc-static.com/users/avatars/16807424485877_Profile.PNG"
+		},
+		"github": "https://github.com/bojidarandreev/ArgentBank-website.git",
+		"location": "Openclassrooms Intégrateur Web",
+		"equipments": ["Toutes les informations affichées sur le site sont consommées depuis l'api backend avec fetch",
+		"L'utilisateur est en mesure de se connecter et se déconnecter correctement depuis l'application", "Il peut aussi éditer ses informations d'identité via la page profil que s'il est authentifié",
+		"La page profil n'est pas accessible si l'utilisateur n'est pas authentifié",
+		"⠀",
+		"La documentation swagger est bien présentée. Elle contient les API restful de la gestion des transactions par compte.",
+		"Une endpoint en patch pour ajouter, modifier et supprimer la catégorie et la note d'une transaction",
+		"Correction de la documentation swagger sous les 48h: Ajout de l'api get accounts. Modification de détails par note dans l'api patch",
+		"⠀",
+		"Utilisation du système de gestion de state Redux avec un store pour la gestion de l'ensemble des données, des actions pour l'envoi d'informations et des reducers pour le traitement des changements de state des demandes.",
+		"⠀",
+		"Bonne explication du code",
+		"Bonne maîtrise du projet et du code livré",
+		"Bonne maîtrise de react et redux ",
+		"⠀",
+		"En conclusion, malgré les obstacles initiaux, la soutenance s'est bien déroulée grâce à la capacité de Bozhidar à répondre efficacement aux questions et à éclaircir les points flous. Félicitations et bonne continuation !"
+		],
+		"tags": [
+			"React",
+			"Redux",
+			"SASS"
+		]
+	}
+]
