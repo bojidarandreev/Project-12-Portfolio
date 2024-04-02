@@ -87,6 +87,8 @@
             .banner-title {
                 padding-top: 1rem;
                 padding-bottom: 1rem;
+                display: flex;
+                @include poppins-600-semibold;
             }
 
             .button {
@@ -117,7 +119,7 @@
         margin-bottom: 3rem;
     }
     &__contact {
-        margin-bottom: 7rem;
+        padding-bottom: 7rem;
     }
     &__aboutMe,
     &__contact,
