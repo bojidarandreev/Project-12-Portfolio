@@ -29,7 +29,7 @@ export default function Home() {
 
         <div className="banner">
           <img
-            src="./src/assets/images/frontpage-image.jpg"
+            src="https://github.com/bojidarandreev/Project-12-Portfolio/blob/main/src/assets/images/webImages/frontpage-image.jpg?raw=true"
             alt="developer illustration"
           />
         </div>
@@ -198,6 +198,17 @@ export default function Home() {
                   Diplôme ou qualification obtenu
                 </h4>
                 <p className="resume__text-danger">Informatique et anglais.</p>
+                <p className="resume__text-simple">
+                  Lycée d`enseignement en informatique « “Otets Paisiy” »
+                  Kardzhali, Bulgarie
+                </p>
+              </div>
+              <div className="resume__box info-box">
+                <p className="resume__badge badge">2002 - 2006</p>
+                <h4 className="resume__title">
+                  Openclassrooms
+                </h4>
+                <p className="resume__text-danger">Formation developpeur web.</p>
                 <p className="resume__text-simple">
                   Lycée d`enseignement en informatique « “Otets Paisiy” »
                   Kardzhali, Bulgarie

@@ -27,11 +27,11 @@ const Contactform = () => {
   return (
     
       <form ref={form} onSubmit={sendEmail}>
-        <label htmlFor="name">Name</label>
+        <label htmlFor="name">Nome</label>
         <input type="text" name="user_name" id="name" />
-        <label htmlFor="email">Tell me more about your needs</label>
+        <label htmlFor="email">E-mail</label>
         <input type="email" name="user_email" id="email" />
-        <label htmlFor="message">Send Message</label>
+        <label htmlFor="message">Parlez-moi de vos besoins</label>
         <textarea name="message" id="message"/>
         <input type="submit" value="Send" />
       </form>

@@ -152,6 +152,20 @@
     }
 
 }
+/* Large devices such as laptops (1024px and up) */
+@media only screen and (min-width: 64em) {
+
+}
+
+/* Largest devices such as desktops (1280px and up) */
+@media only screen and (min-width: 80em) {
+    .contact__details {
+        margin-right: auto;
+    margin-left: auto;
+    width: 829.9px;
+    }
+}
+
  /* Medium devices such as tablets (768px and up) */
  @media only screen and (min-width: 48em) {
    .grid-two-columns .description {

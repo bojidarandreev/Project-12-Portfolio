@@ -14,7 +14,7 @@ export default function Navigation(props) {
       <div className="site-header">
         <a href="/" title="Header info" className="header__title">
           <img
-            src="./src/assets/images/Bozhidar-Andreev.jpg"
+            src="https://github.com/bojidarandreev/Project-12-Portfolio/blob/main/src/assets/images/webImages/Bozhidar-Andreev.jpg?raw=true"
             alt="Photo of Bozhidar Andreev"
           />
           
@@ -41,7 +41,7 @@ export default function Navigation(props) {
             <a href="/#portfolio">Portfolio</a>
           </li>
           <li className="header__nav--item">
-            <a href="/#Témoignages">Témoignages</a>
+            <a href="/#testimonial">Témoignages</a>
           </li>
           <li className="header__nav--item">
             <a href="/#contact">Contact</a>
@@ -70,7 +70,7 @@ export default function Navigation(props) {
                 <a href="/#portfolio">Portfolio</a>
               </li>
               <li className="header__nav--item">
-                <a href="/#Témoignages">Témoignages</a>
+                <a href="/#testimonial">Témoignages</a>
               </li>
               <li className="header__nav--item">
                 <a href="/#contact">Contact</a>
